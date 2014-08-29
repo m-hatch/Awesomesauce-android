@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:text="Dreia!!!"
+        android:text="You!!!"
         android:textColor="#ff3388"
         android:textSize="60sp"
         android:textStyle="bold" />
