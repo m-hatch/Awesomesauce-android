@@ -1,19 +1,18 @@
 Awesomesauce android app
 ========================
 
-<h3>Create a custom app for you or your friends.</h3>
+<h4>Create a custom app for you or your friends.</h4>
 
-<br>
 
 Paths:
 
 <ul>
 
-<li>Shippable .apk<br>/binAwesomesauce.apk</li>
+<li><em>Shippable .apk</em><br>/binAwesomesauce.apk</li>
 
-<li>Java code<br>/src/com/example/awesomesauce/...</li>
+<li><em>Java code</em><br>/src/com/example/awesomesauce/...</li>
 
-<li>XML code<br>/AndroidManifest.xml<br>/res/layout...</li>
+<li><em>XML code</em><br>/AndroidManifest.xml<br>/res/layout...</li>
 
 </ul>
 
