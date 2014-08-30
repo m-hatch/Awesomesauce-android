@@ -8,7 +8,7 @@ Paths:
 
 <ul>
 
-<li>Shippable .apk<br><em>/binAwesomesauce.apk</em></li>
+<li>Shippable .apk<br><em>/bin/Awesomesauce.apk</em></li>
 
 <li>Java code<br><em>/src/com/example/awesomesauce/...</em></li>
 
