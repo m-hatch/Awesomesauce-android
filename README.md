@@ -8,11 +8,11 @@ Paths:
 
 <ul>
 
-<li><em>Shippable .apk</em><br>/binAwesomesauce.apk</li>
+<li>Shippable .apk<br><em>/binAwesomesauce.apk</em></li>
 
-<li><em>Java code</em><br>/src/com/example/awesomesauce/...</li>
+<li>Java code<br><em>/src/com/example/awesomesauce/...</em></li>
 
-<li><em>XML code</em><br>/AndroidManifest.xml<br>/res/layout...</li>
+<li>XML code<br><em>/AndroidManifest.xml</em><br><em>/res/layout/...</em></li>
 
 </ul>
 
