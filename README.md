@@ -3,7 +3,7 @@ Awesomesauce android app
 
 <p>Create a custom app for you or your friends</p>
 
-<p>Paths:</p>
+Paths:
 
 <ul>
 
