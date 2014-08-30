@@ -1,9 +1,11 @@
 Awesomesauce android app
 ========================
 
-<p>Create a custom app for you or your friends</p>
+<h3>Create a custom app for you or your friends.</h3>
 
-<p>Paths:</p>
+<br>
+
+Paths:
 
 <ul>
 
